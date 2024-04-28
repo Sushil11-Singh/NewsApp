@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_list">News List</string>
+    <string name="sort">Sort News</string>
+    <string name="old_to_new">Old To New</string>
+    <string name="new_to_old">New To Old</string>
+    <string name="news_detail">News Detail</string>
+    <string name="cancel">Cancel</string>
+</resources>

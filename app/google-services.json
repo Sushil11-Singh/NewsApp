@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72396795534",
+    "project_id": "newsapp-78344",
+    "storage_bucket": "newsapp-78344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72396795534:android:24c9787234bb50fccaa3df",
+        "android_client_info": {
+          "package_name": "com.diagnal.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr_wX5_2VYiIv7Ru5nPA3WWatcPMxSnVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
